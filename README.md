@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/𝗠𝗮𝗱𝗲%20𝗪𝗶𝘁𝗵-❤️%20+%20𝗖𝗼𝗱𝗲-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/MrSmileTech?style=for-the-badge&label=Follow+Me">
+  <img src="https://img.shields.io/https://www.youtube.com/@MrSmile_modders?style=for-the-badge&label=Follow+Me">
 </p>
 
 ---
