@@ -1,7 +1,7 @@
 <!-- Amazing README Template for Mr Smile -->
 
 <p align="center">
-  <img src="https://your-image-link-here.com/banner.png" alt="Mr Smile Banner" width="100%" />
+  <img src="https://files.catbox.moe/4ga40i.png" alt="Mr Smile Banner" width="100%" />
 </p>
 
 <h1 align="center">💻🔥 𝙈𝙍 𝙎𝙈𝙄𝙇𝙀 𝙏𝙀𝘾𝙃 𝙒𝙊𝙍𝙇𝘿 🔥💻</h1>
